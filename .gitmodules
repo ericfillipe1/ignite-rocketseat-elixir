@@ -7,3 +7,6 @@
 [submodule "elixir-list-filter"]
 	path = elixir-list-filter
 	url = https://github.com/ericfillipe1/elixir-list-filter.git
+[submodule "elixir-reports-generator"]
+	path = elixir-reports-generator
+	url = https://github.com/ericfillipe1/elixir-reports-generator.git
