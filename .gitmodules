@@ -10,3 +10,6 @@
 [submodule "elixir-reports-generator"]
 	path = elixir-reports-generator
 	url = https://github.com/ericfillipe1/elixir-reports-generator.git
+[submodule "elixir-gen-report"]
+	path = elixir-gen-report
+	url = https://github.com/ericfillipe1/elixir-gen-report.git
